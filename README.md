@@ -10,7 +10,7 @@ Climate scientist working on extreme weather, regional climate modelling and the
 
 | Repository | What it does |
 |---|---|
-| [era5tool](https://github.com/Linimie/era5tool) | **era5pool**: ERA5 from the DKRZ data pool on Levante as ready-to-use, compressed NetCDF in one command (period, region, level, regridding, proper metadata) |
+| [era5pool](https://github.com/Linimie/era5pool) | ERA5 from the DKRZ data pool on Levante as ready-to-use, compressed NetCDF in one command (period, region, level, regridding, proper metadata) |
 | [ivt-pipeline-cnrm-arctic_cordex](https://github.com/Linimie/ivt-pipeline-cnrm-arctic_cordex) | Integrated vapour transport (IVT) from CNRM-ESM2-1 (CMIP6), regridded to the CORDEX Arctic grid |
 | [ivt-pipeline-racmo-arctic](https://github.com/Linimie/ivt-pipeline-racmo-arctic) | IVT from the regional climate model RACMO2.4 for the Arctic |
 
